@@ -1,0 +1,97 @@
+﻿Item_Set,Sentence,NP1_number,Verb_number,Correct_Resp,Group
+1,Yöneticinin aşçısı mutfakta sürekli zıpladı.,singular,singular,Yes,A
+1,Yöneticilerin aşçısı mutfakta sürekli zıpladı.,plural,singular,Yes,B
+1,Yöneticinin aşçısı mutfakta sürekli zıpladılar.,singular,plural,No,C
+1,Yöneticilerin aşçısı mutfakta sürekli zıpladılar.,plural,plural,No,D
+2,Öğrencinin ablası sınıfta birden bayıldı.,singular,singular,Yes,A
+2,Öğrencilerin ablası sınıfta birden bayıldı.,plural,singular,Yes,B
+2,Öğrencinin ablası sınıfta birden bayıldılar.,singular,plural,No,C
+2,Öğrencilerin ablası sınıfta birden bayıldılar.,plural,plural,No,D
+3,Marangozun abisi atölyede hızla uzaklaştı.,singular,singular,Yes,A
+3,Marangozların abisi atölyede hızla uzaklaştı.,plural,singular,Yes,B
+3,Marangozun abisi atölyede hızla uzaklaştılar.,singular,plural,No,C
+3,Marangozların abisi atölyede hızla uzaklaştılar.,plural,plural,No,D
+4,Mahallelinin emlakçısı aniden küstahça güldü.,singular,singular,Yes,A
+4,Mahallelilerin emlakçısı aniden küstahça güldü.,plural,singular,Yes,B
+4,Mahallelinin emlakçısı aniden küstahça güldüler.,singular,plural,No,C
+4,Mahallelilerin emlakçısı aniden küstahça güldüler.,plural,plural,No,D
+5,Doktorun çiçekçisi günden güne zayıfladı.,singular,singular,Yes,A
+5,Doktorların çiçekçisi günden güne zayıfladı.,plural,singular,Yes,B
+5,Doktorun çiçekçisi günden güne zayıfladılar.,singular,plural,No,C
+5,Doktorların çiçekçisi günden güne zayıfladılar.,plural,plural,No,D
+6,Stajyerin eniştesi geceden önce uyudu.,singular,singular,Yes,A
+6,Stajyerlerin eniştesi geceden önce uyudu.,plural,singular,Yes,B
+6,Stajyerin eniştesi geceden önce uyudular.,singular,plural,No,C
+6,Stajyerlerin eniştesi geceden önce uyudular.,plural,plural,No,D
+7,Konuşmacının sunucusu olağanüstü hızlı koştu.,singular,singular,Yes,B
+7,Konuşmacıların sunucusu olağanüstü hızlı koştu.,plural,singular,Yes,C
+7,Konuşmacının sunucusu olağanüstü hızlı koştular.,singular,plural,No,D
+7,Konuşmacıların sunucusu olağanüstü hızlı koştular.,plural,plural,No,A
+8,Politikacının hocası adliyeden çabucak çıktı.,singular,singular,Yes,B
+8,Politikacıların hocası adliyeden çabucak çıktı.,plural,singular,Yes,C
+8,Politikacının hocası adliyeden çabucak çıktılar.,singular,plural,No,D
+8,Politikacıların hocası adliyeden çabucak çıktılar.,plural,plural,No,A
+9,Milyonerin terzisi tamamen gereksizce bağırdı.,singular,singular,Yes,B
+9,Milyonerlerin terzisi tamamen gereksizce bağırdı.,plural,singular,Yes,C
+9,Milyonerin terzisi tamamen gereksizce bağırdılar.,singular,plural,No,D
+9,Milyonerlerin terzisi tamamen gereksizce bağırdılar.,plural,plural,No,A
+10,Modacının taksicisi saatlerce durmaksızın içti.,singular,singular,Yes,B
+10,Modacıların taksicisi saatlerce durmaksızın içti.,plural,singular,Yes,C
+10,Modacının taksicisi saatlerce durmaksızın içtiler.,singular,plural,No,D
+10,Modacıların taksicisi saatlerce durmaksızın içtiler.,plural,plural,No,A
+11,Şarkıcının koruması geçenlerde yine gecikti.,singular,singular,Yes,B
+11,Şarkıcıların koruması geçenlerde yine gecikti.,plural,singular,Yes,C
+11,Şarkıcının koruması geçenlerde yine geciktiler.,singular,plural,No,D
+11,Şarkıcıların koruması geçenlerde yine geciktiler.,plural,plural,No,A
+12,Cerrahın hastası gösteriden önce kaçtı.,singular,singular,Yes,B
+12,Cerrahların hastası gösteriden önce kaçtı.,plural,singular,Yes,C
+12,Cerrahın hastası gösteriden önce kaçtılar.,singular,plural,No,D
+12,Cerrahların hastası gösteriden önce kaçtılar.,plural,plural,No,A
+13,Esnafın müşterisi şikayetten sonra sustu.,singular,singular,Yes,C
+13,Esnafların müşterisi şikayetten sonra sustu.,plural,singular,Yes,D
+13,Esnafın müşterisi şikayetten sonra sustular.,singular,plural,No,A
+13,Esnafların müşterisi şikayetten sonra sustular.,plural,plural,No,B
+14,Dalgıcın annesi saatler boyunca gezindi.,singular,singular,Yes,C
+14,Dalgıçların annesi saatler boyunca gezindi.,plural,singular,Yes,D
+14,Dalgıcın annesi saatler boyunca gezindiler.,singular,plural,No,A
+14,Dalgıçların annesi saatler boyunca gezindiler.,plural,plural,No,B
+15,Fabrikatörün işçisi beklenmedik şekilde hastalandı.,singular,singular,Yes,C
+15,Fabrikatörlerin işçisi beklenmedik şekilde hastalandı.,plural,singular,Yes,D
+15,Fabrikatörün işçisi beklenmedik şekilde hastalandılar.,singular,plural,No,A
+15,Fabrikatörlerin işçisi beklenmedik şekilde hastalandılar.,plural,plural,No,B
+16,Oyuncunun hemşiresi etrafta amaçsızca gezdi.,singular,singular,Yes,C
+16,Oyuncuların hemşiresi etrafta amaçsızca gezdi.,plural,singular,Yes,D
+16,Oyuncunun hemşiresi etrafta amaçsızca gezdiler.,singular,plural,No,A
+16,Oyuncuların hemşiresi etrafta amaçsızca gezdiler.,plural,plural,No,B
+17,Mankenin asistanı geç vakitte uyandı.,singular,singular,Yes,C
+17,Mankenlerin asistanı geç vakitte uyandı.,plural,singular,Yes,D
+17,Mankenin asistanı geç vakitte uyandılar.,singular,plural,No,A
+17,Mankenlerin asistanı geç vakitte uyandılar.,plural,plural,No,B
+18,Dedektifin dişçisi çılgınlar gibi eğlendi.,singular,singular,Yes,C
+18,Dedektiflerin dişçisi çılgınlar gibi eğlendi.,plural,singular,Yes,D
+18,Dedektifin dişçisi çılgınlar gibi eğlendiler.,singular,plural,No,A
+18,Dedektiflerin dişçisi çılgınlar gibi eğlendiler.,plural,plural,No,B
+19,Göstericinin izleyicisi akşama kadar oturdu.,singular,singular,Yes,D
+19,Göstericilerin izleyicisi akşama kadar oturdu.,plural,singular,Yes,A
+19,Göstericinin izleyicisi akşama kadar oturdular.,singular,plural,No,B
+19,Göstericilerin izleyicisi akşama kadar oturdular.,plural,plural,No,C
+20,,singular,singular,Yes,D
+20,,plural,singular,Yes,A
+20,,singular,plural,No,B
+20,,plural,plural,No,C
+21,,singular,singular,Yes,D
+21,,plural,singular,Yes,A
+21,,singular,plural,No,B
+21,,plural,plural,No,C
+22,,singular,singular,Yes,D
+22,,plural,singular,Yes,A
+22,,singular,plural,No,B
+22,,plural,plural,No,C
+23,,singular,singular,Yes,D
+23,,plural,singular,Yes,A
+23,,singular,plural,No,B
+23,,plural,plural,No,C
+24,,singular,singular,Yes,D
+24,,plural,singular,Yes,A
+24,,singular,plural,No,B
+24,,plural,plural,No,C
