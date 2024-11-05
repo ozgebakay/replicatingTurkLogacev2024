@@ -4,6 +4,6 @@ Turk, U., & Logačev, P. (2024). Agreement attraction in Turkish: the case of ge
 
 The present version was created by Özge Bakay in November, 2024.
 
-The experimental stimuli was taken from Turk & Logačev (2024), and the filler items were prepared by Özge Bakay. If you use these stimuli, credit Turk & Logacev (2024).
+The experimental stimuli were taken from Turk & Logačev (2024), and the filler items were prepared by Özge Bakay. If you use these stimuli, credit Turk & Logacev (2024).
 
 This experiment is distributed under the GNU General Public License v3.0.
